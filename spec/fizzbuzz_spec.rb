@@ -24,5 +24,4 @@ describe
     fizz_4 = fizzbuzz(4)
 
     expect(fizz_4).to eq(nil)
-  end
-end
+
